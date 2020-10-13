@@ -13,4 +13,5 @@ fun main() {
     var char02 = (int01 + 40).toChar()
     println(char01)
     println(char02)
+    println(int02 + char02.toInt())
 }
