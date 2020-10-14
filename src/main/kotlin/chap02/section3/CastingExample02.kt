@@ -5,4 +5,5 @@ fun main() {
     val x: String = y.toString()
     var z: String = y as String
     println(x)
+    print(z)
 }
